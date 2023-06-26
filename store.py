@@ -1,1 +1,2 @@
 # store
+print('hello world')
